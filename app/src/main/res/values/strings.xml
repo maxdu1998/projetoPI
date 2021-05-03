@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VirtualTouch</string>
+    <string name="enter">Entrar</string>
+    <string name="signIn">Criar uma conta</string>
+    <string name="insert">Cadastrar</string>
+    <string name="photo">Foto</string>
+    <string name="contacts">Contatos</string>
+    <string name="logout">Sair</string>
+</resources>
